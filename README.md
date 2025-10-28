@@ -23,4 +23,13 @@ This project gives you a way to build simple, cheap structures for holding thing
 ## Tools
 - Some way to cut PVC tubing. A hacksaw works in a pinchbut the dedicated PVC cutters are easiest.
 - Some way to chamfer the tubing or sand down the cuts
-`
+
+## Recipes (WIP)
+
+### Simple Backdrop Holder
+
+### Gantry
+
+### Floor to ceiling rigging
+
+### Simple Camera Holder
