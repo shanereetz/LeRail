@@ -4,6 +4,8 @@ Robots like the [SO-101](https://huggingface.co/docs/lerobot/en/so101) often ben
 
 This project gives you a way to build simple, cheap structures for holding things with the ethos of cheap, modular, adaptable parts for budget robotics projects.
 
+All of the models below are designed to be 3D printed on an FDM printer.
+
 ## Models
 
 | Image | Description |
