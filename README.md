@@ -17,7 +17,7 @@ All of the models below are designed to be 3D printed on an FDM printer.
 | ![Camera Clamp Part 2](images/camera_2.png) | **Camera Clamp Part 2** - Additional view of the camera clamp assembly. |
 
 ## Supplies
-- 3/4" PVC tubing - cheap and easily available (at least in US hardware stores)
+- 1" PVC tubing - cheap and easily available (at least in US hardware stores)
 - Drywall screws
 - For camera clamp: 
     - 1/4"-20 buttonhead bolts
