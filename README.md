@@ -11,7 +11,7 @@ All of the models below are designed to be 3D printed on an FDM printer.
 | Image | Description |
 |-------|-------------|
 | ![Three Way Junction](images/three_way_junction.png) | **Three Way Junction** - A junction that allows you to connect 3 pieces of tubing together. Also has holes for threaded inserts. |
-| ![Full Junction](images/junction.png) | **Full Junction** - A simple plus-shaped piece that allows you to connect 2-4 pieces of tubing together. |
+| ![Full Junction](images/full_junction.png) | **Full Junction** - A simple plus-shaped piece that allows you to connect 2-4 pieces of tubing together. |
 | ![Base](images/base.png) | **Base** - A base for securing tubing to floors, walls or other surfaces. |
 | ![Camera Clamp](images/camera_1.png) | **Camera Clamp** - A clamp for securing a camera to the junction. Uses threaded inserts designed for 1/4"-20 bolts commonly used on cameras. |
 | ![Camera Clamp Part 2](images/camera_2.png) | **Camera Clamp Part 2** - Additional view of the camera clamp assembly. |
